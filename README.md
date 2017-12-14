@@ -1,8 +1,8 @@
-# ui-template
+# vue+element-ui+json-server
 
-> A Vue.js project
+> A Vue.js project, use vue-router, axios, element-ui, mock
 
-## Build Setup
+## Vue Build Setup
 
 ``` bash
 # install dependencies
@@ -18,4 +18,12 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Json-server Start Shell
+
+``` bash
+
+# run mock with 3000 port
+npm run mock
+```
+
+See more detail with json-server, check out the [docs for json-server](https://github.com/typicode/json-server).
